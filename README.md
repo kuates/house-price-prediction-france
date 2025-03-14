@@ -8,6 +8,6 @@ Il s’appuie sur :
 - Les données géographiques d'OpenStreetMap pour intégrer la proximité des commodités (transports, commerces…).
 
 # Objectifs du projet
-🔹 Explorer les tendances du marché immobilier en fonction de critères comme la localisation, la surface et le type de bien.
-🔹 Construire un modèle prédictif capable d’estimer la valeur d’un bien immobilier en fonction de ses caractéristiques.
-🔹 Créer un tableau de bord interactif permettant de visualiser et d’explorer les prix immobiliers en France.
+- Explorer les tendances du marché immobilier en fonction de critères comme la localisation, la surface et le type de bien.
+- Construire un modèle prédictif capable d’estimer la valeur d’un bien immobilier en fonction de ses caractéristiques.
+- Créer un tableau de bord interactif permettant de visualiser et d’explorer les prix immobiliers en France.
