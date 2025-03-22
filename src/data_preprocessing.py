@@ -15,7 +15,7 @@ YEARS = ["2019", "2020", "2021", "2022", "2023", "2024"]
 
 # Colonnes utiles à conserver (modifiable selon les besoins)
 COLS_TO_KEEP = ["valeur_fonciere", "surface_reelle_bati", "nombre_pieces_principales",
-        "code_postal", "nom_commune", "type_local", "longitude", "latitude"]
+        "code_postal", "nom_commune", "type_local", "longitude", "latitude", "code_departement"]
 
 def clean_dvf():
     """Charge, nettoie et sauvegarde les fichiers DVF par année"""
